@@ -1,0 +1,14 @@
+{
+  "name": "Holla",
+  "short_name": "Holla",
+  "start_url": "browser.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "https://www.holla.com/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#4e8ef7",
+  "theme_color": "#4e8ef7",
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}
